@@ -2,9 +2,9 @@ Serverless Learning Management Tool (Group - 14)
 
 Memebers of the Team
 
-Hari Arunachalam  -  B00823143
-Hardik Dudhrejia  -  B00835071
-Shubhamm Suri     -  B00840085
+Hari Arunachalam  -  B00823143\
+Hardik Dudhrejia  -  B00835071\
+Shubhamm Suri     -  B00840085\
 Yash Shah         -  B00841980
 
 The DalSoft5410 Management is a mulit-cloud serverless application created using the services of Amazon Web Serivces (AWS) and Google Cloud platform (GCP). It focuses on communication between services to build fast, robust, and scalable pipeline to cater software to multiple organisations 
